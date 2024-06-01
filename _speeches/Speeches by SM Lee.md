@@ -9,7 +9,7 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NAPmBpn-_0E?si=-7OEks7Uf5X0O7jB"></iframe>
 </div>
-<p></p>
+<hr>
 <p><strong>PM Lee May Day Rally 2024 Speech</strong>
 </p>
 <div class="iframe-wrapper">
