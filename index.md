@@ -27,23 +27,25 @@ sections:
       backgroundColor: gray
       size: sm
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: "My Monthly Picks: Dining, Drinks, and Hangouts"
       id: textcards
-      description: Text card description
+      description: "Embark on my ever-evolving list of top spots for delectable
+        dining, refreshing drinks, and unforgettable hangouts. Fresh discoveries
+        update every month. "
       cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Sushi Ryujiro Singapore
+          description: One-Michelin-starred Tokyo sushi restaurant is now open in Singapore.
+          linktext: Sushi Ryujiro on Google Maps
+          url: https://maps.app.goo.gl/HZRKYcbbg8ZNo5Nd6
+        - title: " Ume Maru"
+          description: Hidden entrance, manga-inspired drinks, and delectable bites.
+          linktext: Ume Maru on Google Maps
+          url: https://maps.app.goo.gl/Ata47Ns2mEgGApTb9
+        - title: Slow Boat
+          description: Singapore's first vinyl-listening cafe with 500+ records from
+            around the world.
+          linktext: Slow Boat on Google Maps
+          url: https://maps.app.goo.gl/Wf4cZqoSwkrazSub6
   - announcements:
       title: Delicious Discoveries
       id: announcements
