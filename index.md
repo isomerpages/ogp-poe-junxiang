@@ -38,8 +38,26 @@ sections:
             Jjajangmyeon was perfectly savoury, and the crispy Tangsuyuk was a
             delightful treat. If you’re craving authentic Korean flavours, Wooga
             Jjajang is a must-visit!
-          link_text: Discover Wooga Jjajang - Clementi West on Google Maps
+          link_text: Wooga Jjajang - Clementi West on Google Maps
           link_url: https://maps.app.goo.gl/gYgknfs6MUb7HwLZ7
+        - title: Warm Your Soul at Ah Cheng Lao Huo Tang 阿成老火汤
+          date: 01 June 2024
+          announcement: Looking for a hearty, nutritious meal? Visit Ah Cheng Lao Huo Tang
+            at Marsiling Mall Hawker Centre. Famous for its double-boiled soups
+            with no MSG, this spot offers delicious options like Lotus Root
+            Peanut Pork Ribs and Buddha Jumps Over The Wall. Expect long queues,
+            but the wait is worth it!
+          link_text: Ah Cheng Lao Huo Tang on Google Maps
+          link_url: https://maps.app.goo.gl/JqCVCWWW7bQR9p9J6
+        - title: Authentic Taiwanese Bubble Tea at Wushiland Boba
+          date: 01 June 2024
+          announcement: Exciting news! Wushiland Boba has arrived at One Holland Village.
+            Originating in Taiwan, this bubble tea shop is known for its
+            high-quality, hand-shaken teas. Enjoy a unique tea-tasting corner
+            before making your choice. My favourite was the Roasted Oolong
+            Latte. The chewy boba pearls are a must-try!
+          link_text: Wushiland Boba at One Holland Village on Google Maps
+          link_url: https://maps.app.goo.gl/vbk8VsMdhRCBErPt8
   - infobar:
       title: Infobar title
       subtitle: Subtitle
