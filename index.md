@@ -26,6 +26,20 @@ sections:
       alignment: right
       backgroundColor: gray
       size: sm
+  - announcements:
+      title: Delicious Discoveries
+      id: announcements
+      subtitle: My Latest Culinary Adventures
+      announcement_items:
+        - title: Authentic Korean Flavors at Wooga Jjajang
+          date: 01 June 2024
+          announcement: Last week, I enjoyed an amazing meal at Wooga Jjajang. This hidden
+            gem in Clementi West offers authentic Korean-Chinese cuisine. The
+            Jjajangmyeon was perfectly savoury, and the crispy Tangsuyuk was a
+            delightful treat. If you’re craving authentic Korean flavours, Wooga
+            Jjajang is a must-visit!
+          link_text: Discover Wooga Jjajang - Clementi West on Google Maps
+          link_url: https://maps.app.goo.gl/gYgknfs6MUb7HwLZ7
   - infobar:
       title: Infobar title
       subtitle: Subtitle
