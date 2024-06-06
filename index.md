@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Jun Xiang
-      subtitle: Passionate Foodie and Photographer
+      subtitle: Passionate Foodie based in Singapore
       background: /images/001511880001.jpg
       button: Check Out My Instagram
       url: https://www.instagram.com/lohjunxiang/
