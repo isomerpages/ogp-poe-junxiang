@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Jun Xiang's Isomer Website
+description: Welcome to Jun Xiang's Isomer Website, your go-to destination for
+  dynamic insights, valuable information, and engaging content. Explore a range
+  of resources and updates curated just for you.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
