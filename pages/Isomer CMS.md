@@ -155,5 +155,5 @@ and procedures to ensure immediate attention to any issues.</p>
 </tr>
 </tbody>
 </table>
-<p>For more details, visit <a href="https://www.isomer.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.isomer.gov.sg/</a>
+<p><em>For more details, visit <a href="https://www.isomer.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.isomer.gov.sg/</a></em>
 </p>
