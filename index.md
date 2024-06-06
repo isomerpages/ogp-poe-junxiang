@@ -13,15 +13,12 @@ sections:
       button: Check Out My Instagram
       url: https://www.instagram.com/lohjunxiang/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Featured Speeches
+          description: Speeches on National Issues
+          url: /speeches/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
       variant: center
       alignment: right
       backgroundColor: gray
@@ -29,15 +26,15 @@ sections:
   - textcards:
       title: "My Monthly Picks: Dining, Drinks, and Hangouts"
       id: textcards
-      description: "Embark on my ever-evolving list of top spots for delectable
-        dining, refreshing drinks, and unforgettable hangouts. Fresh discoveries
-        update every month. "
+      description: Embark on my ever-evolving list of top spots for delectable dining,
+        refreshing drinks, and unforgettable hangouts. Fresh discoveries update
+        every month.
       cards:
         - title: Sushi Ryujiro Singapore
           description: One-Michelin-starred Tokyo sushi restaurant is now open in Singapore.
           linktext: Sushi Ryujiro on Google Maps
           url: https://maps.app.goo.gl/HZRKYcbbg8ZNo5Nd6
-        - title: " Ume Maru"
+        - title: Ume Maru
           description: Hidden entrance, manga-inspired drinks, and delectable bites.
           linktext: Ume Maru on Google Maps
           url: https://maps.app.goo.gl/Ata47Ns2mEgGApTb9
