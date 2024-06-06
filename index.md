@@ -16,9 +16,9 @@ sections:
         - title: Featured Speeches
           description: Speeches on National Issues
           url: /speeches/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: What is ISOMER CMS
+          description: Learn more about Isomer CMS
+          url: /isomer-cms/
       variant: center
       alignment: right
       backgroundColor: gray
