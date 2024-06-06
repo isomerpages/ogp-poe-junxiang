@@ -77,7 +77,6 @@ sections:
           link_url: https://maps.app.goo.gl/vbk8VsMdhRCBErPt8
   - infobar:
       title: Frequently Asked Questions
-      subtitle: FAQ
       description: Find quick answers to common questions about using and navigating
         our website in our FAQ section.
       button: Visit FAQ
