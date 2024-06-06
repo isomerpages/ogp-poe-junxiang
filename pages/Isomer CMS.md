@@ -114,20 +114,26 @@ API or server-side processing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Advanced Integrations</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>File Size Limitations</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Media or file size uploaded to IsomerCMS is limited to 5MB to ensure fast
+loading times, but larger files can be uploaded to <a href="http://go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a> and linked on a page.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Static vs Dyanmic Websites</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Static Websites</strong>: Use pre-built files served without change.
+Analogy: Printed brochure from a store. Simple, fixed, cheaper, faster,
+and more secure.</p>
+<p><strong>Dynamic Websites</strong>: Re-generated each time visited, often
+require a database and server updates. Analogy: Personalized hair cut at
+a salon. Complex, interactive, costly, and harder to maintain.</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +142,12 @@ API or server-side processing.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Faster</strong>: Pre-rendered and stored in a CDN, using fewer
+resources, and loads quickly even on slower connections. Isomer limits
+the size of media and files to ensure fast loading times.</p>
+<p><strong>More Secure</strong>: Regular Vulnerability Assessment Penetration
+Testing (VAPT). Only whitelisted scripts allowed, monitored 24/7 with alarms
+and procedures to ensure immediate attention to any issues.</p>
 </td>
 </tr>
 </tbody>
