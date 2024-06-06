@@ -45,6 +45,7 @@ sections:
             around the world.
           linktext: Slow Boat on Google Maps
           url: https://maps.app.goo.gl/Wf4cZqoSwkrazSub6
+      subtitle: Last updated on 02 June 2024
   - announcements:
       title: Delicious Discoveries
       id: announcements
