@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Jun Xiang
@@ -76,9 +76,10 @@ sections:
           link_text: Wushiland Boba at One Holland Village on Google Maps
           link_url: https://maps.app.goo.gl/vbk8VsMdhRCBErPt8
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Frequently Asked Questions
+      subtitle: FAQ
+      description: Find quick answers to common questions about using and navigating
+        our website in our FAQ section.
+      button: Visit FAQ
       url: /faq/
 ---
