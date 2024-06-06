@@ -1,12 +1,32 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: tiptap
 ---
-
-### **FAQ**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<h3><strong>Frequently Asked Questions</strong></h3>
+<h4>General</h4>
+<p><strong>Q: What is Isomer?</strong> A: Isomer is a content management system
+(CMS) designed for creating and managing static websites easily and efficiently.</p>
+<p><strong>Q: Who can use Isomer?</strong> A: Isomer is ideal for government
+agencies, organizations, and individuals who need a secure and fast platform
+to share information publicly.</p>
+<h4>Technical</h4>
+<p><strong>Q: Do I need coding skills to use Isomer?</strong> A: No, Isomer
+features an intuitive dashboard and drag-and-drop functionality, making
+it user-friendly even for those without technical expertise.</p>
+<p><strong>Q: What type of websites can I create with Isomer?</strong> A:
+Isomer is best for static websites, such as informational sites, campaign
+pages, and corporate websites. It’s not suitable for dynamic sites requiring
+user authentication or server-side processing.</p>
+<h4>Usage</h4>
+<p><strong>Q: How do I update content on my Isomer website?</strong> A: You
+can easily update content through the Isomer dashboard. Simply log in,
+navigate to the section you want to update, and make the necessary changes.</p>
+<p><strong>Q: Are there any limits on file sizes uploaded to Isomer?</strong> A:
+Yes, each image or file uploaded to IsomerCMS is limited to 5MB to ensure
+fast loading times. For larger files, you can upload them to <a href="http://go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a> and
+link to them on your page.</p>
+<p><em>Last Updated on 06 June 2024.</em>
+</p>
+<h3></h3>
+<p></p>
