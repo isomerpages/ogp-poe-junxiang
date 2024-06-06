@@ -4,7 +4,10 @@ permalink: /isomer-cms/
 variant: tiptap
 description: Isomer CMS use cases
 ---
-<h3>Introduction to Isomer CMS</h3>
+<h2>Introduction to Isomer CMS</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Screenshot of the IsomerCMS Workspace" src="https://www.isomer.gov.sg/images/IsomerCMS/isomercms_workspace.png">
+</div>
 <p>Welcome to Isomer, a content management system (CMS) designed to simplify
 the creation and management of static websites. Isomer is tailored for
 government agencies, organizations, and individuals who need a secure,
@@ -152,4 +155,5 @@ and procedures to ensure immediate attention to any issues.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For more details, visit <a href="https://www.isomer.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.isomer.gov.sg/</a>
+</p>
